@@ -1,0 +1,642 @@
+[
+    {
+        "lng": -123.00465153,
+        "lat": 49.24620657,
+        "title": "Mathissi Place",
+        "id": 1,
+        "type": "building",
+        "desc": "",
+        "label": "Mathissi Place",
+        "img": ""
+    },
+    {
+        "lng": -123.00003358,
+        "lat": 49.25371869,
+        "title": "Afresh",
+        "id": 2,
+        "type": "building",
+        "desc": "",
+        "label": "Afresh",
+        "img": ""
+    },
+    {
+        "lng": -123.00098291,
+        "lat": 49.25407229,
+        "title": "NE1- JW Inglis Building",
+        "id": 3,
+        "type": "building",
+        "desc": "",
+        "label": "NE1",
+        "img": ""
+    },
+    {
+        "lng": -122.99849749,
+        "lat": 49.25325887,
+        "title": "NE10 - Auto Collision",
+        "id": 4,
+        "type": "building",
+        "desc": "",
+        "label": "NE10",
+        "img": ""
+    },
+    {
+        "lng": -122.99851426,
+        "lat": 49.25267761,
+        "title": "NE12 - Steel Trades",
+        "id": 5,
+        "type": "building",
+        "desc": "",
+        "label": "NE12",
+        "img": ""
+    },
+    {
+        "lng": -122.99978602,
+        "lat": 49.25204666,
+        "title": "NE16 - Automotive",
+        "id": 6,
+        "type": "building",
+        "desc": "",
+        "label": "NE16",
+        "img": ""
+    },
+    {
+        "lng": -123.00068773,
+        "lat": 49.25206281,
+        "title": "NE18 - Automotive Shop",
+        "id": 7,
+        "type": "building",
+        "desc": "",
+        "label": "NE18",
+        "img": ""
+    },
+    {
+        "lng": -123.00156387,
+        "lat": 49.2533184,
+        "title": "NE2 - Joinery",
+        "id": 8,
+        "type": "building",
+        "desc": "",
+        "label": "NE2",
+        "img": ""
+    },
+    {
+        "lng": -123.00153758,
+        "lat": 49.25206139,
+        "title": "NE20 - Small Engines",
+        "id": 9,
+        "type": "building",
+        "desc": "",
+        "label": "NE20",
+        "img": ""
+    },
+    {
+        "lng": -123.00165075,
+        "lat": 49.2524678,
+        "title": "NE22 - General Classroom",
+        "id": 10,
+        "type": "building",
+        "desc": "",
+        "label": "NE22",
+        "img": ""
+    },
+    {
+        "lng": -123.00112456,
+        "lat": 49.25291355,
+        "title": "NE23 - Carpentry Classrm.",
+        "id": 11,
+        "type": "building",
+        "desc": "",
+        "label": "NE23",
+        "img": ""
+    },
+    {
+        "lng": -123.00112434,
+        "lat": 49.25247152,
+        "title": "NE24 - Automotive Classrm",
+        "id": 12,
+        "type": "building",
+        "desc": "",
+        "label": "NE24",
+        "img": ""
+    },
+    {
+        "lng": -123.00044546,
+        "lat": 49.25290176,
+        "title": "NE25 - Tech Applied Res.",
+        "id": 13,
+        "type": "building",
+        "desc": "",
+        "label": "NE25",
+        "img": ""
+    },
+    {
+        "lng": -122.99992344,
+        "lat": 49.25247067,
+        "title": "NE28 - Heavy Duty Res. Ce",
+        "id": 14,
+        "type": "building",
+        "desc": "",
+        "label": "NE28",
+        "img": ""
+    },
+    {
+        "lng": -122.99982222,
+        "lat": 49.25383324,
+        "title": "NE3 - Centre Applied Res.",
+        "id": 15,
+        "type": "building",
+        "desc": "",
+        "label": "NE3",
+        "img": ""
+    },
+    {
+        "lng": -123.00082195,
+        "lat": 49.25333172,
+        "title": "NE4 - Carpentry Shop",
+        "id": 16,
+        "type": "building",
+        "desc": "",
+        "label": "NE4",
+        "img": ""
+    },
+    {
+        "lng": -122.99981829,
+        "lat": 49.25331556,
+        "title": "NE6 - Plumbing & Pipefit",
+        "id": 17,
+        "type": "building",
+        "desc": "",
+        "label": "NE6",
+        "img": ""
+    },
+    {
+        "lng": -122.99861376,
+        "lat": 49.25368994,
+        "title": "NE7 - Facilities Maint.",
+        "id": 18,
+        "type": "building",
+        "desc": "",
+        "label": "NE7",
+        "img": ""
+    },
+    {
+        "lng": -122.99923647,
+        "lat": 49.25328151,
+        "title": "NE8 - Welding",
+        "id": 19,
+        "type": "building",
+        "desc": "",
+        "label": "NE8",
+        "img": ""
+    },
+    {
+        "lng": -122.99867873,
+        "lat": 49.25407083,
+        "title": "NE9 - Facilities Mgmt.",
+        "id": 20,
+        "type": "building",
+        "desc": "",
+        "label": "NE9",
+        "img": ""
+    },
+    {
+        "lng": -123.00335855,
+        "lat": 49.25276319,
+        "title": "NW1 - Administration",
+        "id": 21,
+        "type": "building",
+        "desc": "",
+        "label": "NW1",
+        "img": ""
+    },
+    {
+        "lng": -123.00260853,
+        "lat": 49.25319148,
+        "title": "NW3 - Paint and Glaze",
+        "id": 22,
+        "type": "building",
+        "desc": "",
+        "label": "NW3",
+        "img": ""
+    },
+    {
+        "lng": -123.00330983,
+        "lat": 49.25213381,
+        "title": "NW4- Health Sciences Ctr",
+        "id": 23,
+        "type": "building",
+        "desc": "",
+        "label": "NW4",
+        "img": ""
+    },
+    {
+        "lng": -123.00235125,
+        "lat": 49.25253135,
+        "title": "NW5 - R2000  Research",
+        "id": 24,
+        "type": "building",
+        "desc": "",
+        "label": "NW5",
+        "img": ""
+    },
+    {
+        "lng": -123.00244075,
+        "lat": 49.25210776,
+        "title": "NW6 - Machine Shop",
+        "id": 25,
+        "type": "building",
+        "desc": "",
+        "label": "NW6",
+        "img": ""
+    },
+    {
+        "lng": -122.99861645,
+        "lat": 49.25157689,
+        "title": "Hydro",
+        "id": 26,
+        "type": "building",
+        "desc": "",
+        "label": "Hydro",
+        "img": ""
+    },
+    {
+        "lng": -122.99890714,
+        "lat": 49.2445304,
+        "title": "ICBC",
+        "id": 27,
+        "type": "building",
+        "desc": "",
+        "label": "ICBC",
+        "img": ""
+    },
+    {
+        "lng": -122.99913485,
+        "lat": 49.25110723,
+        "title": "SE1 - Electrical Training",
+        "id": 28,
+        "type": "building",
+        "desc": "",
+        "label": "SE1",
+        "img": ""
+    },
+    {
+        "lng": -123.00067216,
+        "lat": 49.24984586,
+        "title": "SE10 - Broadcast",
+        "id": 29,
+        "type": "building",
+        "desc": "",
+        "label": "SE10",
+        "img": ""
+    },
+    {
+        "lng": -123.00159558,
+        "lat": 49.24996106,
+        "title": "SE12 - Classrms & Offces",
+        "id": 30,
+        "type": "building",
+        "desc": "",
+        "label": "SE12",
+        "img": ""
+    },
+    {
+        "lng": -123.00084502,
+        "lat": 49.24949942,
+        "title": "SE14 - Library",
+        "id": 31,
+        "type": "building",
+        "desc": "",
+        "label": "SE14",
+        "img": ""
+    },
+    {
+        "lng": -123.00096673,
+        "lat": 49.24876833,
+        "title": "SE16 - Student Activity",
+        "id": 32,
+        "type": "building",
+        "desc": "",
+        "label": "SE16",
+        "img": ""
+    },
+    {
+        "lng": -122.99860538,
+        "lat": 49.24900368,
+        "title": "SE19 - Technology Place",
+        "id": 33,
+        "type": "building",
+        "desc": "",
+        "label": "SE19",
+        "img": ""
+    },
+    {
+        "lng": -123.00117937,
+        "lat": 49.25136221,
+        "title": "SE2 - Campus Centre",
+        "id": 34,
+        "type": "building",
+        "desc": "",
+        "label": "SE2",
+        "img": ""
+    },
+    {
+        "lng": -122.99873935,
+        "lat": 49.24629214,
+        "title": "SE30 - Warehouse",
+        "id": 35,
+        "type": "building",
+        "desc": "",
+        "label": "SE30",
+        "img": ""
+    },
+    {
+        "lng": -123.0001264,
+        "lat": 49.25133146,
+        "title": "SE4 - Classroom",
+        "id": 36,
+        "type": "building",
+        "desc": "",
+        "label": "SE4",
+        "img": ""
+    },
+    {
+        "lng": -122.99877617,
+        "lat": 49.24343092,
+        "title": "SE40 - Royal Oak",
+        "id": 37,
+        "type": "building",
+        "desc": "",
+        "label": "SE40",
+        "img": ""
+    },
+    {
+        "lng": -122.99935433,
+        "lat": 49.24377071,
+        "title": "SE41- Royal Oak",
+        "id": 38,
+        "type": "building",
+        "desc": "",
+        "label": "SE41",
+        "img": ""
+    },
+    {
+        "lng": -122.99951858,
+        "lat": 49.24336472,
+        "title": "SE42 - Royal Oak",
+        "id": 39,
+        "type": "building",
+        "desc": "",
+        "label": "SE42",
+        "img": ""
+    },
+    {
+        "lng": -122.99901049,
+        "lat": 49.24267428,
+        "title": "SE50 - Lignol",
+        "id": 40,
+        "type": "building",
+        "desc": "",
+        "label": "SE50",
+        "img": ""
+    },
+    {
+        "lng": -123.00047474,
+        "lat": 49.25089656,
+        "title": "SE6 - IBM Technology Bldg",
+        "id": 41,
+        "type": "building",
+        "desc": "",
+        "label": "SE6",
+        "img": ""
+    },
+    {
+        "lng": -123.00142403,
+        "lat": 49.25074846,
+        "title": "SE8 - Boiler House",
+        "id": 42,
+        "type": "building",
+        "desc": "",
+        "label": "SE8",
+        "img": ""
+    },
+    {
+        "lng": -123.00132119,
+        "lat": 49.25042219,
+        "title": "SE9 - Telecommunication",
+        "id": 43,
+        "type": "building",
+        "desc": "",
+        "label": "SE9",
+        "img": ""
+    },
+    {
+        "lng": -123.00277933,
+        "lat": 49.25091706,
+        "title": "SW1 - Classrms & Offices",
+        "id": 44,
+        "type": "building",
+        "desc": "",
+        "label": "SW1",
+        "img": ""
+    },
+    {
+        "lng": -123.00176232,
+        "lat": 49.24749899,
+        "title": "SW10 - Nootka House",
+        "id": 45,
+        "type": "building",
+        "desc": "",
+        "label": "SW10",
+        "img": ""
+    },
+    {
+        "lng": -123.00224673,
+        "lat": 49.24716041,
+        "title": "SW11 - Salish House",
+        "id": 46,
+        "type": "building",
+        "desc": "",
+        "label": "SW11",
+        "img": ""
+    },
+    {
+        "lng": -123.00163753,
+        "lat": 49.247023,
+        "title": "SW12 - Chilcotin House",
+        "id": 47,
+        "type": "building",
+        "desc": "",
+        "label": "SW12",
+        "img": ""
+    },
+    {
+        "lng": -123.00208248,
+        "lat": 49.24667259,
+        "title": "SW13 - Carrier House",
+        "id": 48,
+        "type": "building",
+        "desc": "",
+        "label": "SW13",
+        "img": ""
+    },
+    {
+        "lng": -123.00156533,
+        "lat": 49.24655564,
+        "title": "SW14 - Kootenay House",
+        "id": 49,
+        "type": "building",
+        "desc": "",
+        "label": "SW14",
+        "img": ""
+    },
+    {
+        "lng": -123.00205376,
+        "lat": 49.24616841,
+        "title": "SW15 - Nisga'a House",
+        "id": 50,
+        "type": "building",
+        "desc": "",
+        "label": "SW15",
+        "img": ""
+    },
+    {
+        "lng": -123.00149922,
+        "lat": 49.2460832,
+        "title": "SW16 - Haida House",
+        "id": 51,
+        "type": "building",
+        "desc": "",
+        "label": "SW16",
+        "img": ""
+    },
+    {
+        "lng": -123.00333869,
+        "lat": 49.25038047,
+        "title": "SW2 - Connector Building",
+        "id": 52,
+        "type": "building",
+        "desc": "",
+        "label": "SW2",
+        "img": ""
+    },
+    {
+        "lng": -123.00276199,
+        "lat": 49.25000452,
+        "title": "SW3 - Classrms & Offices",
+        "id": 53,
+        "type": "building",
+        "desc": "",
+        "label": "SW3",
+        "img": ""
+    },
+    {
+        "lng": -123.00263574,
+        "lat": 49.249734,
+        "title": "SW5 - Theatre Building",
+        "id": 54,
+        "type": "building",
+        "desc": "",
+        "label": "SW5",
+        "img": ""
+    },
+    {
+        "lng": -123.00276833,
+        "lat": 49.24857801,
+        "title": "SW9 - Mechanical Tech.",
+        "id": 55,
+        "type": "building",
+        "desc": "",
+        "label": "SW9",
+        "img": ""
+    },
+    {
+        "lat": 49.24643241854805,
+        "lng": -123.00448548534006,
+        "title": "BFL Cafeteria",
+        "id": 100,
+        "type": "food",
+        "desc": "",
+        "label": "Cafeteria",
+        "img": ""
+    },
+    {
+        "lat": 49.25386105831646,
+        "lng": -123.00144424252949,
+        "title": "The Pavilion",
+        "id": 101,
+        "type": "food",
+        "desc": "",
+        "label": "Pavilion",
+        "img": ""
+    },
+    {
+        "lat": 49.25135491821469,
+        "lng": -122.9993177549348,
+        "title": "Grill & Co",
+        "id": 102,
+        "type": "food",
+        "desc": "",
+        "label": "Grill",
+        "img": ""
+    },
+    {
+        "lat": 49.251476906408975,
+        "lng": -123.00162638302555,
+        "title": "Rix Cafe",
+        "id": 103,
+        "type": "food",
+        "desc": "",
+        "label": "Rix",
+        "img": ""
+    },
+    {
+        "lat": 49.251481438893414,
+        "lng": -123.00098149011578,
+        "title": "The Habitat Pub, Triple O's, Poke Pick, Market Kitchen",
+        "id": 104,
+        "type": "food",
+        "desc": "",
+        "label": "Food",
+        "img": ""
+    },
+    {
+        "lat": 49.25081818153096,
+        "lng": -123.00303458343086,
+        "title": "Gateway Cafe",
+        "id": 105,
+        "type": "food",
+        "desc": "",
+        "label": "Gateway",
+        "img": ""
+    },
+    {
+        "lat": 49.250344462885536,
+        "lng": -123.00159285587438,
+        "title": "Tim Hortons, Austin Grill, All-day Breakfast & Lunch, Smokes Poutinerie, The Stand",
+        "id": 106,
+        "type": "food",
+        "desc": "",
+        "label": "Food",
+        "img": ""
+    },
+    {
+        "lat": 49.24961142570096,
+        "lng": -123.00125967451598,
+        "title": "Booster Juice",
+        "id": 107,
+        "type": "food",
+        "desc": "",
+        "label": "Booster Juice",
+        "img": ""
+    },
+    {
+        "lat": 49.25199559785208,
+        "lng": -123.00353339147604,
+        "title": "Teck Copper Caf\u00c3\u00a9",
+        "id": 108,
+        "type": "food",
+        "desc": "",
+        "label": "Teck Copper Cafe",
+        "img": ""
+    }
+]

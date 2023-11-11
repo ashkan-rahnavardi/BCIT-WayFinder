@@ -1,0 +1,98 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.App {
+  height: 100vh;
+  width: 100%;
+}
+
+.building {
+  background: #d83b01;
+  color: #fff;
+}
+
+.food {
+  background: #059b00;
+  color: #fff;
+}
+
+.currentLocation {
+  background: #f7d200;
+  border-radius: 50%;
+  border-color: black;
+  color: #000000;
+  height: 2em;
+  width: 2em;
+  position: absolute;
+  top: -1em; left: -1em;
+  border: 1px solid;
+}
+
+.circleText {
+  text-align: center;
+  position: absolute;
+  top: 1em; left: -1em;
+  color: white;
+}
+
+.bigMarker {
+  border-radius: 50%;
+  height: 2.5em;
+  width: 2.5em;
+  position: absolute;
+  top: -1.25em; left: -1.25em;
+  border: 1px solid black;
+}
+
+.smallMarker {
+  border-radius: 50%;
+  height: 1em;
+  width: 1em;
+  position: absolute;
+  top: -0.5em; left: -0.5em;
+  border: 1px solid black;
+}
+
+.smallMarker > .circleText {
+  display: none;
+}
+
+/* removes arrow from select dropdown */
+.dropdown-toggle::after {
+  display: none !important; 
+}
+
+#NavCard {
+  width: 360px;
+  height: 48px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgb(0 0 0 / 20%), 0 -1px 0px rgb(0 0 0 / 2%);
+  z-index: 4;
+  background-color: #fff;
+  display: flex;
+  position: fixed;
+  margin: 8px 0 8px 8px;
+  align-items: center;
+}
+
+#navButtons > li {
+  display: inline-block;
+}
+
+#navButtonsContainer {
+  height: 34px;
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+  margin-right: 0;
+}
+
+#locationButton {
+  display: none;
+}
+
+.gm-fullscreen-control {
+  display: none;
+}
