@@ -1,4 +1,4 @@
-*Second industry project at BCIT. Me and two other students developed this prototype app from start to finish. For more information go to www.ashkans.world*
+*Second industry project at BCIT. Me and two other students developed this prototype app from start to finish. For more information view projects in www.ashkans.world*
 
 # BCIT Wayfinder
 
