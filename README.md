@@ -1,4 +1,4 @@
-*Second industry project at BCIT. Me and two other students developed this prototype app from start to finish. For more information view projects in www.ashkans.world*
+_Second industry project at BCIT. Me and two other students developed this prototype app from start to finish. For more information view projects in www.ashkans.world_
 
 # BCIT Wayfinder
 
@@ -38,7 +38,7 @@ Contains the React app itself.
 
 ### 2.1. /client/public
 
-Auto-generated static files created by React. The index.html here will only be served if something goes wrong. 
+Auto-generated static files created by React. The index.html here will only be served if something goes wrong.
 
 ### 2.2. /client/.env
 
@@ -121,10 +121,3 @@ There is also code for drawing the path on the map and updating the react state 
 #### 2.4.14. /client/src/SearchBar.js
 
 Component for the search bar at the top of the UI.
-
-
-
-
-
-
-
