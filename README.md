@@ -1,6 +1,6 @@
-_Second industry project at BCIT. Me and two other students developed this prototype app from start to finish. For more information view projects in www.ashkans.world_
-
 # BCIT Wayfinder
+
+## Technical Overview
 
 This is a technical overview of the app which tries to explain how everything works and fits together. Sections are organized by folder, then individual files, and then the contents of those files.
 
