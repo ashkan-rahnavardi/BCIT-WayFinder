@@ -1,7 +1,7 @@
 # BCIT Wayfinder
 
 ## Context 
-  New students and faculty were having difficulty navigating the BCIT campus. The only resource available to them was a downloadable PDF map available on the BCIT website.
+&ensp; New students and faculty were having difficulty navigating the BCIT campus. The only resource available to them was a downloadable PDF map available on the BCIT website.
   Google maps does not work for foot paths on campus, so students and faculty would have to go back and forth between google maps and the PDF map.
 
 ## Scope
