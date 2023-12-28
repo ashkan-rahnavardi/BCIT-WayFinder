@@ -1,6 +1,6 @@
 # BCIT Wayfinder
 
-## Technical Overview
+## <u>Technical Overview</u>
 
 This is a technical overview of the app which tries to explain how everything works and fits together. Sections are organized by folder, then individual files, and then the contents of those files.
 
