@@ -1,6 +1,17 @@
 # BCIT Wayfinder
 
-## <u>Technical Overview</u>
+## Context 
+  New students and faculty were having difficulty navigating the BCIT campus. The only resource available to them was a downloadable PDF map available on the BCIT website.
+  Google maps does not work for foot paths on campus, so students and faculty would have to go back and forth between google maps and the PDF map.
+
+## Scope
+  This project was developed as a proof of concept wayfinding application for the BCIT Burnaby campus. My team consisted of myself and two other students, and we were given 4 x 1 week sprints for development.
+  The main focus of the project was developing a way to get accurate foot path data from the campus, and creating a frontend which would use this data to show the shortest path between any two given points.
+
+## Objective
+  The goal of this project was to create a MVP wayfinding mobile application for the BCIT Burnaby campus. The application would be able to geolocate the user on the campus, and provide them with directions to their destination.
+
+## Technical Overview
 
 This is a technical overview of the app which tries to explain how everything works and fits together. Sections are organized by folder, then individual files, and then the contents of those files.
 
