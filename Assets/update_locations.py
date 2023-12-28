@@ -13,4 +13,4 @@ for loc in locations:
 print(locations)
 
 with open('.locations.json', 'w') as file:
-    json.dump(locations, file, indent=4)
+    json.dump(locations, file, indent=4) 
