@@ -5,39 +5,39 @@ Live demo available [here](https://www.ashkans.world/projects/WayFinder)
 
 ## Description
 ### Context 
-&ensp;New students and faculty were having difficulty navigating the BCIT campus. The only resource available to them was a downloadable PDF map available on the BCIT website.
+New students and faculty were having difficulty navigating the BCIT campus. The only resource available to them was a downloadable PDF map available on the BCIT website.
   
-&ensp;Google maps does not work for foot paths on campus, so students and faculty would have to go back and forth between google maps and the PDF map.
+Google maps does not work for foot paths on campus, so students and faculty would have to go back and forth between google maps and the PDF map.
 
 ### Scope
-&ensp;This project was developed as a proof of concept wayfinding application for the BCIT Burnaby campus. My team consisted of myself and two other students, and we were given 4 x 1 week sprints for development.
+This project was developed as a proof of concept wayfinding application for the BCIT Burnaby campus. My team consisted of myself and two other students, and we were given 4 x 1 week sprints for development.
   
-&ensp;The main focus of the project was developing a way to get accurate foot path data from the campus, and creating a frontend which would use this data to show the shortest path between any two given points.
+The main focus of the project was developing a way to get accurate foot path data from the campus, and creating a frontend which would use this data to show the shortest path between any two given points.
 
 ### Objective
-&ensp;The goal of this project was to create a MVP wayfinding mobile application for the BCIT Burnaby campus. The application would be able to geolocate the user on the campus, and provide them with directions to their destination.
+The goal of this project was to create a MVP wayfinding mobile application for the BCIT Burnaby campus. The application would be able to geolocate the user on the campus, and provide them with directions to their destination.
 
 ### Challenges
 
-&ensp;The biggest challenge we faced was the lack of data for footpaths on campus. To generate this data we created a JSON to represent the intersections and corners of footpaths on campus. 
+The biggest challenge we faced was the lack of data for footpaths on campus. To generate this data we created a JSON to represent the intersections and corners of footpaths on campus. 
 
-&ensp;We then developed a python script which would interpolate the nodes between the corners and intersections to create a more accurate representation of the footpaths on campus.
+We then developed a python script which would interpolate the nodes between the corners and intersections to create a more accurate representation of the footpaths on campus.
 
 ### Implementation
 
-&ensp;Since we were only developing a prototype we decided to focus solely on the wayfinding aspect of the app. This allowed us to focus on the core functionality and not get bogged down by the additional features that would be required for a full-fledged app.
+Since we were only developing a prototype we decided to focus solely on the wayfinding aspect of the app. This allowed us to focus on the core functionality and not get bogged down by the additional features that would be required for a full-fledged app.
 
-&ensp;We ruled out the need to connect the app to a database. Instead, we created a JSON file with the data we needed and used the Google Maps API to display the data on the map.
+We ruled out the need to connect the app to a database. Instead, we created a JSON file with the data we needed and used the Google Maps API to display the data on the map.
 
 ### UI/UX
-&ensp;The UI/UX of the app was designed to closely mimic that of Google Maps in order to minimize the learning curve for users. Familiar navigation icons and layouts were employed to make the app easy to understand and use for those already familiar with Google Maps.
+The UI/UX of the app was designed to closely mimic that of Google Maps in order to minimize the learning curve for users. Familiar navigation icons and layouts were employed to make the app easy to understand and use for those already familiar with Google Maps.
 
-&ensp;The map view, search bar, and menu options were all modeled after the well-known Google Maps interface to ensure a seamless transition for users.
+The map view, search bar, and menu options were all modeled after the well-known Google Maps interface to ensure a seamless transition for users.
 
 ### Next Steps
-&ensp;More accurate footpath data is required to improve the functionality of the app. This data could be crowd sourced by students and staff and would include routes that go through buildings and other areas that are not currently included in the app.
+More accurate footpath data is required to improve the functionality of the app. This data could be crowd sourced by students and staff and would include routes that go through buildings and other areas that are not currently included in the app.
 
-&ensp;An admin control panel would be required to allow for updating the map, and sending out alerts to all users. This would allow for the app to be used for emergency situations such as fire alarms and lockdowns.
+An admin control panel would be required to allow for updating the map, and sending out alerts to all users. This would allow for the app to be used for emergency situations such as fire alarms and lockdowns.
 
 ### Technical Overview
 
