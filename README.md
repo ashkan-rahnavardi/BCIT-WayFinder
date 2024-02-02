@@ -1,7 +1,8 @@
 # BCIT Wayfinder
 
 My second academic project at BCIT. The original repo is no longer available. 
-Date: February 2023
+
+Date: February 2023              Team: 3 People
 
 ## Demo
 Live demo available [here](https://www.ashkans.world/projects/WayFinder)
